@@ -15,7 +15,7 @@ type Employee {
 
 input CreateEmployeeInput {
     name: String!
-    dateOfBrith: String!
+    dateOfBirth: String!
     city: String!
     salary: Float!
     gender: String
